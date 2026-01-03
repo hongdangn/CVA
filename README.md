@@ -31,8 +31,8 @@ else:
 ## Download dataset 
 Download train/eval dataset/images here:
 ```bash
-Train data: [MMEB-train]([https://huggingface.co/datasets/TIGER-Lab/MMEB-train])
-Evaluation data: [MMEB-eval]([https://huggingface.co/datasets/TIGER-Lab/MMEB-eval])
+Train data: https://huggingface.co/datasets/TIGER-Lab/MMEB-train]
+Evaluation data: https://huggingface.co/datasets/TIGER-Lab/MMEB-eval
 ```
 ## Acknowledgement
 - We have adapted code from [VLM2Vec]([https://github.com/TIGER-AI-Lab/VLM2Vec]) and [B3](https://github.com/raghavlite/B3)
