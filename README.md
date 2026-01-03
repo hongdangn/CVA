@@ -1,7 +1,8 @@
-# VLMEmbed
+# CVA: Cross-Vocabulary Alignment for Vision-Language Embedding
+Models
 ## Clone repo
 ```
-git clone https://github.com/hongdangn/VLM_Embed.git
+git clone https://github.com/hongdangn/CVA.git
 ```
 ## Set up env
 ```bash
