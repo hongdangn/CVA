@@ -29,16 +29,10 @@ else:
     size = {"shortest_edge": 56 * 56, "longest_edge": 28 * 28 * 1280}
 ```
 ## Download dataset 
-To download train/eval images, please run these 2 commands (you can split into 2 terminals for running each command):
+Download train/eval dataset/images here:
 ```bash
-bash download_traindata.sh
-bash download_traindata2.sh
-bash download_eval.sh
-```
-## Train model
-### 1. SFT-training:
-```
-bash test-scripts/sft_meta.sh
+Train data: [MMEB-train]([https://huggingface.co/datasets/TIGER-Lab/MMEB-train])
+Evaluation data: [MMEB-eval]([https://huggingface.co/datasets/TIGER-Lab/MMEB-eval])
 ```
 ## Acknowledgement
 - We have adapted code from [VLM2Vec]([https://github.com/TIGER-AI-Lab/VLM2Vec]) and [B3](https://github.com/raghavlite/B3)
