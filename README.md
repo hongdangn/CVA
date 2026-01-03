@@ -6,7 +6,7 @@ git clone https://github.com/hongdangn/CVA.git
 ```
 ## Set up env
 ```bash
-cd VLM_Embed
+cd CVA
 apt-get update
 apt-get upgrade -y
 apt install tmux zip unzip -y
